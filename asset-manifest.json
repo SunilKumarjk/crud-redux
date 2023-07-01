@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crud-redux/static/css/main.5f1619c1.css",
-    "main.js": "/crud-redux/static/js/main.c9669c45.js",
-    "static/js/787.f1a4418d.chunk.js": "/crud-redux/static/js/787.f1a4418d.chunk.js",
-    "index.html": "/crud-redux/index.html",
-    "main.5f1619c1.css.map": "/crud-redux/static/css/main.5f1619c1.css.map",
-    "main.c9669c45.js.map": "/crud-redux/static/js/main.c9669c45.js.map",
-    "787.f1a4418d.chunk.js.map": "/crud-redux/static/js/787.f1a4418d.chunk.js.map"
+    "main.css": "/react-projects/static/css/main.5f1619c1.css",
+    "main.js": "/react-projects/static/js/main.6a21d31f.js",
+    "static/js/787.f1a4418d.chunk.js": "/react-projects/static/js/787.f1a4418d.chunk.js",
+    "index.html": "/react-projects/index.html",
+    "main.5f1619c1.css.map": "/react-projects/static/css/main.5f1619c1.css.map",
+    "main.6a21d31f.js.map": "/react-projects/static/js/main.6a21d31f.js.map",
+    "787.f1a4418d.chunk.js.map": "/react-projects/static/js/787.f1a4418d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f1619c1.css",
-    "static/js/main.c9669c45.js"
+    "static/js/main.6a21d31f.js"
   ]
 }
